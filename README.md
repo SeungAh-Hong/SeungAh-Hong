@@ -1,6 +1,6 @@
 ### HONG SEUNG AH
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungah's Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungah's%20Github&fontSize=90)
 
 
 

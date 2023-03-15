@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEUNG AH%20HONG&fontSize=90)
+### HONG SEUNG AH
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HONG&fontSize=90)
 
 
 

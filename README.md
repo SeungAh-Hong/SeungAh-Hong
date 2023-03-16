@@ -4,9 +4,10 @@
 
 <div align=center>
   
-  **📧Email**
+  |Name|Email|
+  |--|--|
+  |홍승아|ghdtmddk1516@naver.com|
 
-  ghdtmddk1516@naver.com
   
   
   ### **⚒️Tech Stack**
@@ -35,12 +36,13 @@
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=CloudWatch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/>
-    
-  
-  
   <br><br>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungAh-Hong%2FSeungAh-Hong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghdtmddk1516)](https://solved.ac/ghdtmddk1516) 
+  |Solved.ac|hits|
+  |--|--|
+  |[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdtmddk1516)](https://solved.ac/ghdtmddk1516)|[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungAh-Hong%2FSeungAh-Hong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)|
+
+  <br>
+  
   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SeungAh-Hong&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br>
    
 </div>
@@ -50,6 +52,9 @@
 
 
 <!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghdtmddk1516)](https://solved.ac/ghdtmddk1516) 
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungAh-Hong&layout=compact">
 
   [![Solved.ac

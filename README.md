@@ -3,25 +3,22 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&customColorList=3&height=200&section=header&text=Seungah's%20Github&fontSize=55)
 
 <div align=center>
-  
-  |Name|Email|
-  |--|--|
-  |홍승아|ghdtmddk1516@naver.com|
+  개발자가 될래요
 
   
   
   ### **⚒️Tech Stack**
-  **Programming**<br> <!-- Java, Python, Linux, Hadoop -->
+  **Programming**<br> <!-- Java, Python, Linux -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Hadoop&logoColor=white"/>
+  
 
   
-  **Database**<br> <!-- MySQL, S3, DynamoDB -->
+  **Database**<br> <!-- MySQL, S3 -->
   <img src="https://img.shields.io/badge/MySQL-003545?style=flate&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=S3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=DynamoDB&logoColor=white"/>
+  
   
   **DevOps/Infra**<br> <!--AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, ArgoCD -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
@@ -52,6 +49,15 @@
 
 
 <!--
+  
+  |Name|Email|
+  |--|--|
+  |홍승아|ghdtmddk1516@naver.com|
+
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Hadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=DynamoDB&logoColor=white"/>
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghdtmddk1516)](https://solved.ac/ghdtmddk1516) 
 
 

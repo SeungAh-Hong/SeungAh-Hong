@@ -26,8 +26,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flate&logo=Ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/>
+
 
   **OpenSources**<br> <!--AWS CloudWatch, Prometheus, Grafana -->
   <img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=flat&logo=Amazon CloudWatch&logoColor=white"/>
@@ -56,6 +55,10 @@
 
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Hadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=DynamoDB&logoColor=white"/>
+
+
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghdtmddk1516)](https://solved.ac/ghdtmddk1516) 

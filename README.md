@@ -12,20 +12,16 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-  
 
-  
-  **Database**<br> <!-- MySQL, AWS S3 -->
+  **Database**<br> <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-003545?style=flate&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
   
-  
-  **DevOps/Infra**<br> <!--AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, ArgoCD -->
+  **DevOps/Infra**<br> <!--AWS, Docker, Kubernetes, Terraform -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flate&logo=Ansible&logoColor=white"/>
+
 
   <br><br>
   |Solved.ac|hits|
@@ -51,11 +47,12 @@
 <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Hadoop&logoColor=white"/>
 <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=DynamoDB&logoColor=white"/>
 
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flate&logo=Ansible&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/>
 
-
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
   
   **OpenSources**<br> AWS CloudWatch, Prometheus, Grafana
   <img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=flat&logo=Amazon CloudWatch&logoColor=white"/>

@@ -51,8 +51,6 @@
 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/>
   
   **OpenSources**<br> AWS CloudWatch, Prometheus, Grafana
   <img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=flat&logo=Amazon CloudWatch&logoColor=white"/>

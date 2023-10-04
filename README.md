@@ -10,8 +10,8 @@
   ### **⚒️Tech Stack**
   **Programming**<br> <!-- Java, Python, Linux -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 
   **Database**<br> <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-003545?style=flate&logo=MySQL&logoColor=white"/>
@@ -30,8 +30,6 @@
   |[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghdtmddk1516)](https://solved.ac/ghdtmddk1516)|[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungAh-Hong%2FSeungAh-Hong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)|
 
   <br>
-  
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SeungAh-Hong&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br>
    
 </div>
 
@@ -40,7 +38,9 @@
 
 
 <!--
-  
+    
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SeungAh-Hong&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br>
+
   |Name|Email|
   |--|--|
   |홍승아|ghdtmddk1516@naver.com|

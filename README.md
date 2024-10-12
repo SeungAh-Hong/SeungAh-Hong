@@ -15,7 +15,8 @@
 
   **Database**<br> <!-- MySQL -->
   <img src="https://img.shields.io/badge/MySQL-003545?style=flate&logo=MySQL&logoColor=white"/>
-  
+   <img src="https://img.shields.io/badge/Oracle-F80000?style=flate&logo=Oracle&logoColor=white"/>
+
   **DevOps/Infra**<br> <!--AWS, Docker, Kubernetes, Terraform -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/>
